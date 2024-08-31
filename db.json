@@ -1058,8 +1058,7 @@
       "isLastPage": true
     }
   ],
-  "time-deal": {
-    "current": [
+  "time-deal-current": [
       {
         "itemList": [
           {
@@ -2286,7 +2285,7 @@
         "isLastPage": true
       }
     ],
-    "next": [
+    "time-deal-next": [
       {
         "itemList": [
           {
@@ -3545,6 +3544,5 @@
         "isLastPage": true
       }
     ]
-  }
 }
 
